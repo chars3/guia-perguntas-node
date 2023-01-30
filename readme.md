@@ -5,4 +5,4 @@ npm init -y
 body-parser
 ejs
 express
-seuqlize
+sequelize
